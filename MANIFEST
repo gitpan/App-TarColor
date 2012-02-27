@@ -1,0 +1,14 @@
+INSTALL
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+bin/tarcolor
+dist.ini
+etc/tarcolorauto.1
+etc/tarcolorauto.sh
+t/test.t
+tarcolor_screenshot.png
+tarcolor_screenshot_2.png
