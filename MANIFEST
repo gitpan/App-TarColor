@@ -9,6 +9,7 @@ bin/tarcolor
 dist.ini
 etc/tarcolorauto.1
 etc/tarcolorauto.sh
+lib/App/TarColor.pm
 t/test.t
 tarcolor_screenshot.png
 tarcolor_screenshot_2.png
