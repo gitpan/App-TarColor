@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "bsd",
   "NAME" => "App::TarColor",
   "PREREQ_PM" => {},
-  "VERSION" => "0.007",
+  "VERSION" => "0.008",
   "test" => {
     "TESTS" => "t/*.t"
   }
