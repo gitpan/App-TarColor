@@ -1,0 +1,1 @@
+curl -s http://www.cpan.org/modules/02packages.details.txt | grep App-TarColor

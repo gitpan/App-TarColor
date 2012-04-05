@@ -5,6 +5,7 @@ META.yml
 Makefile.PL
 README
 README.md
+bin/check-version-on-cpan
 bin/tarcolor
 dist.ini
 etc/tarcolorauto.1

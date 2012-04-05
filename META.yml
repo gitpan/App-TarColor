@@ -12,4 +12,7 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: App-TarColor
-version: 0.008
+resources:
+  bugtracker: https://github.com/msabramo/tarcolor/issues
+  repository: https://github.com/msabramo/tarcolor
+version: 0.009
