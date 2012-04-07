@@ -17,13 +17,12 @@ my %WriteMakefileArgs = (
   },
   "DISTNAME" => "App-TarColor",
   "EXE_FILES" => [
-    "bin/check-version-on-cpan",
     "bin/tarcolor"
   ],
   "LICENSE" => "bsd",
   "NAME" => "App::TarColor",
   "PREREQ_PM" => {},
-  "VERSION" => "0.009",
+  "VERSION" => "0.010",
   "test" => {
     "TESTS" => "t/*.t"
   }
