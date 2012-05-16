@@ -4,8 +4,14 @@ A Perl program that can color the output of `tar tvf` similarly to the way GNU `
 
 By Marc Abramowitz (http://marc-abramowitz.com)
 
+[![Build Status](https://secure.travis-ci.org/msabramo/tarcolor.png?branch=master)](http://travis-ci.org/msabramo/tarcolor)
+
 
 ## Installation
+
+From [the CPAN distribution](http://search.cpan.org/~msabramo/App-TarColor/):
+
+    $ cpanm App::TarColor
 
 Download a tarball `App-TarColor-<version>.tar.gz` from [the downloads page](https://github.com/msabramo/tarcolor/downloads).
 

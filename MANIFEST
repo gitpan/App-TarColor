@@ -10,6 +10,7 @@ dist.ini
 etc/tarcolorauto.1
 etc/tarcolorauto.sh
 lib/App/TarColor.pm
+t/input/blank_lines.txt
 t/input/bsd_tar_1
 t/input/bsd_tar_2
 t/input/bsd_tar_rwx_filename
@@ -25,7 +26,9 @@ t/input/ls_with_colons_and_spaces
 t/input/ls_with_seconds
 t/input/mp3_purple_gz_cyan
 t/input/pax_1
+t/input/short_lines.txt
 t/input/sun_tar
+t/output/blank_lines.txt
 t/output/bsd_tar_1
 t/output/bsd_tar_2
 t/output/bsd_tar_rwx_filename
@@ -41,6 +44,7 @@ t/output/ls_with_colors_and_spaces
 t/output/ls_with_seconds
 t/output/mp3_purple_gz_cyan
 t/output/pax_1
+t/output/short_lines.txt
 t/output/sun_tar
 t/test.t
 tarcolor_screenshot.png

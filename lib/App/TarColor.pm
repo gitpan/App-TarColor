@@ -1,6 +1,6 @@
 package App::TarColor;
 {
-  $App::TarColor::VERSION = '0.010';
+  $App::TarColor::VERSION = '0.011';
 }
 
 use warnings;
